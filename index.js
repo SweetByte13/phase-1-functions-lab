@@ -36,9 +36,6 @@ function calculatesFarePrice(startLocation, endLocation) {
         return ("cannot travel that far")
     }
     calculatesFarePrice(43, 50)
-    console.log()
-    calculatesFarePrice(10, 42)
-    calculatesFarePrice(43, 50)
 }
 
 
